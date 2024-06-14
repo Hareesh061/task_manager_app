@@ -7,14 +7,17 @@
 
 1. Backend
 
-cd Backend
+   cd Backend
 
-node server.js
+   node server.js
 
 
 2. Frontend
+
+   cd Frontend
    
-npm start
+   npm start
 
 
 
+*Keep learning* 
