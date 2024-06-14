@@ -1,6 +1,11 @@
 # Creating task-manager app ( Software Development Internship Task)
 
 
+* Technologies used:*
+  1. Frontend: React.js, React Router, Axios and more.
+  2. Backend: Node.js, Express.js, MongoDB, JWT and more.
+
+
 # Still under Progress
 
 Features added: 
