@@ -7,11 +7,13 @@
 
 1. Backend
 
-cd Backend\n
+cd Backend
+
 node server.js
 
 
-2. Frontend\n
+2. Frontend
+   
 npm start
 
 
