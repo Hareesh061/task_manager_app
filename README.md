@@ -3,6 +3,15 @@
 
 # Still under Progress
 
+Features added: 
+
+1. Login form
+2. Home page
+3. Search bar
+4. Task Creation
+5. Filter and more.
+   
+
 # To run app locally 
 
 1. Backend
