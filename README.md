@@ -7,19 +7,12 @@
 
 1. Backend
 
-cd Backend
+cd Backend\n
 node server.js
 
 
-2. Frontend
+2. Frontend\n
 npm start
 
 
 
-samples: 
-
-![alt text](image.png)
-
-![alt text](image-1.png)
-
-![alt text](image-2.png)
