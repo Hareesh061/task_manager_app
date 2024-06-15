@@ -8,7 +8,7 @@
 
 # Still under Progress⚙️⚙️
 
-# Diploy link: https://666d6ecd3d4ad0a190aa68da--dreamy-naiad-09f31a.netlify.app
+# Deploy link: https://666d6ecd3d4ad0a190aa68da--dreamy-naiad-09f31a.netlify.app
 
 Features added: 
 
